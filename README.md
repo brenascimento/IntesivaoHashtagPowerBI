@@ -10,4 +10,4 @@ Nesse dashboard queriamos responder as seguinte perguntas:
 * Qual o Faturamento e Quantia vendida por Mês?
 * Qual a quantidade vendida por marca?
 
-<img src="Aula 1 - imagem.jpg", alt="Dashboard de Vendas">
+![Dashboard de vendas](https://github.com/brenascimento/IntesivaoHashtagPowerBI/blob/main/Aula%201/Aula%201%20-%20imagem.JPG?raw=True)
